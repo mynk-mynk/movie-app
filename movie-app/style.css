@@ -236,10 +236,15 @@ a:hover {
     color: #20A574 ;
 }
 
+footer {
+  width: 40%;
+  align-self: center;
+}
+
 .footer-container {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    
     padding: 10px 20px;
     padding-top: 50px;
     color: #363955;
